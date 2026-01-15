@@ -1,6 +1,6 @@
 const MarketNews = ({ articles }) => {
   return (
-    <div className="bg-card p-6 rounded-lg shadow-md">
+    <div className="bg-white/10 backdrop-blur-sm border border-white/20 p-6 rounded-lg shadow-lg">
       <h2 className="text-xl font-semibold mb-4 text-text-primary">Market News</h2>
       <div className="space-y-4">
         {articles && articles.length > 0 ? (

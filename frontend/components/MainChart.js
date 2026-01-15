@@ -5,7 +5,7 @@ import Plot from 'react-plotly.js';
 const MainChart = ({ data }) => {
   if (!data) {
     return (
-      <div className="bg-card p-6 rounded-lg shadow-md h-full flex items-center justify-center">
+      <div className="bg-white/10 backdrop-blur-sm border border-white/20 p-6 rounded-lg shadow-lg h-full flex items-center justify-center">
         <p className="text-text-secondary">Search for a stock to see its chart.</p>
       </div>
     );
@@ -34,14 +34,14 @@ const MainChart = ({ data }) => {
   }
 
   return (
-    <div className="bg-card p-6 rounded-lg shadow-md h-full">
+    <div className="bg-white/10 backdrop-blur-sm border border-white/20 p-6 rounded-lg shadow-lg h-full">
       <Plot
         data={plotData}
         layout={{
           autosize: true,
           title: `Stock Price Analysis for ${data.ticker}`,
-          paper_bgcolor: '#252525',
-          plot_bgcolor: '#252525',
+          paper_bgcolor: 'transparent',
+          plot_bgcolor: 'transparent',
           font: { color: '#ffffff' },
           xaxis: { 
             gridcolor: '#3f3f46',

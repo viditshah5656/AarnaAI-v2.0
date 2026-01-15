@@ -10,7 +10,7 @@ const AIAnalysis = ({ content }) => {
   };
 
   return (
-    <div className="bg-card p-6 rounded-lg shadow-md h-full prose prose-invert max-w-none">
+    <div className="bg-white/10 backdrop-blur-sm border border-white/20 p-6 rounded-lg shadow-lg h-full prose prose-invert max-w-none">
       <h2 className="text-xl font-semibold mb-4 text-text-primary">AI Analysis & Report</h2>
       {renderContent()}
     </div>
