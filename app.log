@@ -1,0 +1,23 @@
+2026-01-13 23:57:20,871 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:57:20,874 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:57:20,877 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
+2026-01-13 23:57:20,884 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:57:20,885 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:57:20,886 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
+2026-01-13 23:57:44,544 - main - INFO - Successfully loaded data for 20MICRONS.NS using _load_with_yahooquery
+2026-01-13 23:57:49,881 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:57:49,882 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:57:49,883 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
+2026-01-13 23:58:00,607 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:58:00,608 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:58:00,608 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
+2026-01-13 23:58:20,383 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:58:20,384 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:58:20,385 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
+2026-01-13 23:58:23,233 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:58:23,234 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:58:23,235 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
+2026-01-13 23:58:40,285 - yahooquery.utils - CRITICAL - Failed to obtain crumb.  Ability to retrieve data will be significantly limited.
+2026-01-13 23:58:50,121 - main - WARNING - NEWSAPI_API_KEY not found, cannot fetch broad market news.
+2026-01-13 23:58:50,123 - main - INFO - Primary news APIs failed or returned no results, falling back to public RSS feeds.
+2026-01-13 23:58:50,124 - main - WARNING - RSS feed fallback failed entirely: name 'SentimentIntensityAnalyzer' is not defined
